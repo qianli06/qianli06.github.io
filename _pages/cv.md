@@ -16,10 +16,9 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems[https://arxiv.org/pdf/2412.06279]
 
+  
 Teaching
 ======
 * Fall 2022: Teaching Assistant
