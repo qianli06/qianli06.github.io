@@ -25,7 +25,7 @@ author:
   avatar           : "QianProfile.png"
   name             : "Qian Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
   employer         : "Peking University"
   uri              : # URL
