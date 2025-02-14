@@ -22,9 +22,16 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
+* Fall 2022: Teaching Assistant
+  * Peking University
+  * Course: Fundamentals of Machine Learning for Predictive Data Analysis
+  * Supervisor: Dou Li
+  
+* Fall 2023: Teaching Assistant
+  * Peking University
+  * Course: Fundamentals of Machine Learning for Predictive Data Analysis
+  * Supervisor: Dou Li
+
 
 Reaserch experience
 ======
@@ -49,21 +56,8 @@ Project experience
 Skills
 ======
 * Programming languages
-  * Python,* C,* C++,* Java,* C#
+  * Python, C, C++, Java, C#
 * Software and Libraries 
-  * Matlab,* PyTorch,* Numpy,* Tensorﬂow,* LATEX
+  * Matlab, PyTorch, Numpy, Tensorﬂow, LATEX
 
 
-
-'''Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>'''
-  
-  
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
