@@ -25,7 +25,16 @@ Reaserch experience
   * Beijingjiaotong University
   * Reaserch Area: Knowledge Graph
   * Supervisor: Wenxin Mu
+
+
+Project experience
+======
+* Spring 2020: Software Development Intern
+  * ByteDance
+  * Duties Included: Software Design and Development
+  * Supervisor: Juanqiong Gou
   
+
 Skills
 ======
 * Programming languages
