@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-* Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems[https://arxiv.org/pdf/2412.06279]
+* Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems(https://arxiv.org/pdf/2412.06279)
 
   
 Teaching
