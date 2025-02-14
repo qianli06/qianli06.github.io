@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Signal and Information Processing, Peking University, 2022-2025
+* B.S. in Information Management and Information System, Beijingjiaotong University, 2018-2022
 
-Work experience
+Reaserch experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Assistant
+  * Peking University
+  * Reaserch Area: Wireless Sensing and Conmmunication
+  * Supervisor: Hongliang Zhang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Assistant
+  * Beijingjiaotong University
+  * Reaserch Area: Knowledge Graph
+  * Supervisor: Wenxin Mu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Python,* C,* C++,* Java,* C#
+* Software and Libraries 
+  * Matlab,* PyTorch,* Numpy,* Tensorﬂow,* LATEX
+
 
 Publications
 ======
