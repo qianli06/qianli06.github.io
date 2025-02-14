@@ -14,6 +14,18 @@ Education
 * M.S. in Signal and Information Processing, Peking University, 2022-2025
 * B.S. in Information Management and Information System, Beijingjiaotong University, 2018-2022
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
+
 Reaserch experience
 ======
 * Spring 2024: Research Assistant
@@ -25,7 +37,6 @@ Reaserch experience
   * Beijingjiaotong University
   * Reaserch Area: Knowledge Graph
   * Supervisor: Wenxin Mu
-
 
 Project experience
 ======
@@ -43,23 +54,15 @@ Skills
   * Matlab,* PyTorch,* Numpy,* Tensorﬂow,* LATEX
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+'''Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>'''
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
+
   
 Service and leadership
 ======
