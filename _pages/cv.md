@@ -44,6 +44,10 @@ Reaserch experience
   * Reaserch Area: Knowledge Graph
   * Supervisor: Wenxin Mu
 
+Professional Service
+======
+* Reviewer for IEEE Transactions on Vehicular Technology
+
 Project experience
 ======
 * Spring 2020: Software Development Intern
