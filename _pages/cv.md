@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-* Q. Li, Z. Yang, D. Li, and H. Zhang, “[Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems](https://ieeexplore.ieee.org/abstract/document/10962217),” IEEE Communications
+* **Q. Li**, Z. Yang, D. Li, and H. Zhang, “[Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems](https://ieeexplore.ieee.org/abstract/document/10962217),” IEEE Communications
 Letters, 2025.
 
   
