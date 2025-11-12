@@ -11,7 +11,9 @@ I'm a master's student from [School of Electronics](https://ele.pku.edu.cn/), [P
 
 I am very fortunate to be advised by [Prof. Dou Li](https://ele.pku.edu.cn/info/1122/1432.htm) and [Prof. Hongliang Zhang](https://scholar.google.com/citations?user=oMuKmN0AAAAJ&hl=zh-CN) from [School of Electronics](https://ele.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Qian Li's Curriculum Vitae](../assets/Qian Li-CV.pdf).
+I am currently fortunate to be guided by Professor  [Prof. Renjie Zhao](https://renjiezhao.github.io/)  in conducting research on human-centered wireless sensing.
+
+Feel free to contact me anytime.
 
 [Email 1](qianli@stu.pku.edu.cn) /[Email 2](lqkeira@163.com)
 
